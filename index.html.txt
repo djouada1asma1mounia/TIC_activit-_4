@@ -1,0 +1,499 @@
+<html>
+<head> 
+ <title> Activite 4 - Module TIC </title>
+ <style>
+
+body { color: black; background-color: white; }
+h1 {color:#DC143C;
+  text-align: center; text-decoration-line: underline;
+ } 
+
+h2 {
+  text-align: center;
+ color:#6495ED; font-family: "Lucida Console", "Courier New", monospace;}
+ h3 {text-align: left;
+  text-align: 50x;
+ color:#20B2AA; text-decoration-line: underline;
+}
+pre {color:black;}
+
+ 
+</style>
+ 
+</head>
+
+<body>
+
+ 
+
+</ol>
+
+
+<h1> RESUME DU MODULE TIC </h1>
+
+
+
+<h3> Partie1</h3>
+<h2> Introduction </h2>
+<pre>
+    <i><b style="font-size:130%;">1) Les techniques de l’information et de la communication (TIC)</i></b>
+  
+  Les techniques de l'information et de la communication (TIC) regroupent l'ensemble des outils utilisés pour manipuler,
+  traiter, produire, transmettre et échanger des informations. Elles résultent de la convergence de l'informatique, des télécommunications, de l'électronique et de l'audiovisuel. 
+
+Les TIC permettent aux utilisateurs de communiquer, d'accéder aux sources d'information, de stocker,
+de manipuler et de produire différents types de contenus tels que du texte, des images, du son et de la vidéo.
+Elles utilisent des techniques telles que l'informatique, Internet, l'audiovisuel, le multimédia et les télécommunications. 
+
+    <i><b style="font-size:130%;">2) Catégories et objectifs</i></b>
+
+Les TIC se divisent en trois grandes catégories : la téléinformatique, les télécommunications et l'électronique grand public.
+Elles ont pour objectifs de favoriser la connectivité entre différents types d'ordinateurs,
+d'offrir des solutions modulaires et faciles à mettre en place, d'être conviviales pour les utilisateurs et de garantir la fiabilité des communications. 
+
+   <i><b style="font-size:130%;"> 3) Composants de TIC</i></b>
+
+Les composants des TIC comprennent la partie matérielle (ordinateurs, téléphones, tablettes, etc.) 
+et la partie logicielle (systèmes d'exploitation, logiciels d'application, réseaux Internet ou mobiles). 
+
+    <i><b style="font-size:130%;">4) Caractéristiques</i></b>
+
+Les caractéristiques des TIC sont la rapidité dans les activités, la décentralisation du pouvoir,
+un meilleur accès aux informations, la rationalité, la mondialisation, la répartition de l'information et son intensité. 
+
+    <i><b style="font-size:130%;">5) Initiation aux techniques de communication</i></b>
+
+L'initiation aux techniques de communication comprend les objectifs de communication, qui visent la prise de conscience,
+l'affectif et le comportemental chez le récepteur. Un système de communication comprend l'émetteur,
+le récepteur, le message, les médias, le codage, le décodage, la réponse et le feedback, 
+ainsi que le bruit qui peut perturber la transmission des signaux. 
+
+Il existe deux types de communication : la communication institutionnelle qui concerne l'image de marque de l'entreprise ou de l'institution,
+et la communication commerciale ou de produit qui met en avant les caractéristiques et les avantages d'un produit. 
+
+Les schémas de communication comprennent la communication interpersonnelle, la communication de groupe et la communication de masse,
+qui correspond à la publicité. 
+
+Les médias sont des moyens impersonnels permettant une diffusion large et collective d'informations,
+tels que la presse, la radio, la télévision, le cinéma et Internet.
+Le multimédia, quant à lui, englobe les techniques permettant l'utilisation simultanée et interactive de différents modes de représentation de l'information,
+tels que les textes, les sons, les images fixes ou animées.  
+
+
+</pre>
+<hr>
+
+
+<h3> Partie2 </h3>
+<h2> Les résaux informatiques </h2>
+<pre>
+ <i><b style="font-size:130%;">  1)Réseaux Network :</i></b>
+
+Est un ensemble des dispositifs informatiques (ordinateurs, serveurs, etc...) connectes entre eux pour
+échanger des données et des ressources.
+Mise en réseau (ou networking) consiste à connecter des dispositifs informatiques. Cela implique de
+configurer les paramètres de connexion des différents appareils, et d'installer des logiciels et des
+services nécessaires pour permettre l'échange de données et de ressources quelles que soient es
+distances qui les séparent.
+Evolution :
+Un réseau s’appuie sur deux notions fondamentales :
+- L’interconnexion : est le processus de connexion de plusieurs réseaux informatiques entre
+eux.
+- La communication : pour permettre l'échange de données entre eux.
+
+ <i><b style="font-size:130%;">  2)Les caractéristiques de base d’un réseau :</i></b>
+
+- La topologie : la topologie d'un réseau définit la structure physique ou logique du
+réseau.
+- Le débit exprimé en bits/s (ou bps) qui mesure une quantité de données numériques (bits)
+transmises par seconde (s).
+- La distance maximale (ou portée) qui dépend de la technologie mise en œuvre.
+- Le nombre de nœuds maximum que l’on peut interconnecter.
+
+  <i><b style="font-size:130%;"> 3)Quelques terminologies en réseau :</i></b>
+   
+- Station de travail : qui est connecté au réseau et qui est utilisé pour accéder aux ressources
+partagées.
+- Nœud : une station de travail.
+- Paquet : la plus petite unité d’information pouvant être envoyé sur le réseau.
+- Réseaux Hétérogènes : différents types d'équipements et de systèmes doivent coexister et
+interagir pour permettre la collaboration et le partage de données
+- Le Débit mesure une quantité de données numériques (bits) transmises par seconde (bit/s ou
+bps).
+
+  <i><b style="font-size:130%;"> 4)Eléments d'un réseau :</i></b>
+   
+- Les ordinateurs équipés d'une carte de communication
+- Les logiciels
+- Les supports : sont les supports physiques qui permettent de transporter les signaux et
+les données
+- Les équipements d'interconnexion du LAN (réseau local) : sont des dispositifs qui permettent
+de connecter différents périphériques d'un même réseau local.
+
+  <i><b style="font-size:130%;" > 5) Classification des réseaux :</i></b>
+   
+On peut classifier les réseaux d'après leur critère :
+1.par porté l'envergure (distance) : LAN, MAN, WAN
+LAN : réseau local de l'entreprise il est constitué d'ordinateur et de périphériques relié entre eux
+implanté dans une entreprise
+- Il ne dépasse pas la centaine de machine
+- La vitesse de transmission et de 10/100 mb/s
+MAN : réseau métropolitain ou urbain il est là réunion de plusieurs LAN à l'intérieur du même
+périmètre d'une grande entreprise. Prouvent relier les points à 10/25 kilomètres
+- Le support co-axial est le plus utiliser
+WAN : réseau grande distances c'est des réseaux large public gérer par des opérateurs public ou privé
+il assure la transmission des données sur un large territoire (pays)
+- Ils existent aussi le : ?PAN
+- WPAN ET WLAB
+- SAN
+
+2.L'ouverture (leur utilisations)
+Selon le service qu'il offre le réseau de famille utiliser est TCP/IP on distingue :
+- Intranet le réseau interne d'une E OU entité organisationnelle
+- Extranet le réseau externe entité organisationnelle vers l'extérieur
+- Internet les réseaux publics nationaux international connecté à l'échelle mondiale
+
+3.Les supports de connexion (filaires et non filaires)
+Réseaux filaires : c'est les réseaux qui utilisent les câbles coaxiaux, en paires torsadé, fibre
+optique, ligne téléphonique
+Réseaux sans fils :
+- Les ondés radios
+- Les ondés infra rouge
+- Satellite
+- Bluetooth
+
+4.Type d'organisation (Peer to Peer et client-serveur)
+Type d'organisation : Réseau poste à poste : chaque ordinateur est libre de partager ses
+ressources car il est un peu serveur et peu client, il est considéré comme faible de
+sécurité Réseaux client /serveur :la plupart sont des poste client les autres sont dédié à
+une ou plusieurs tâches spécialisées Ps : l'administration du réseau est réalisée par un
+administrateur.
+
+  <i><b style="font-size:130%;"> 6)Le type de topologie :</i></b>
+
+On distingue :
+1.bus
+2.anneau
+3.étoile
+4.maillee
+Les réseaux en bus : les machine sont relié par un capable coaxial et chaque ordinateur
+est connecté en série sur le bus par intermédiaire de connecteur (BNC) il n'est plus
+adapté car la limitation du débit est à 10 Mbits/s
+Réseaux en étoile : toutes les stations sont connectées à des commutateur. Switch Les
+station émettent vers ce concentrateur qui envoi toute la donnée vers toutes les autres
+portes
+Réseaux en anneau : les ordinateurs sont situés en boucle et communiquent chaque un
+à leur tour
+- Elles utilisent la méthode jeton
+- Fonctionne au niveau de la couche L. D
+- utilise le u trame de 3 octets, circule dans un sens
+- Comment ça fonctionne Les donné transite de station en station en suivant l'anneau, le
+jeton peut emmètre et il est transférer à tour de rôle vers la station suivante
+Maillée (ATM, Réseaux MAN et WAN) : par exemple l'internet Ils utilisent plusieurs
+chemins de transfert entre le différent nœud c'est une structure réseaux hybride réparent
+un câblage à étoile regroupe différent nœud de réseaux.
+
+
+</pre>
+<hr>
+
+
+
+<h3> Partie3 </h3>
+<h2>Le modèle OSI</h2>
+<pre>
+<i><b style="font-size:130%;">
+
+    1)les composants martériel d'un réseau informatique </i></b>
+ 
+•Les cartes réseaux;ils sont des composants matériels essentiels qui permettent aux ordinateurs de se connecter et de communiquer avec d'autres ordinateurs sur un réseau, ce qui est crucial pour l'accès à Internet et la communication entre les utilisateurs.
+•SWITCH :  est un composant matériel utilisé pour connecter des appareils sur un réseau local (LAN) et leur permettre de communiquer entre eux en utilisant des adresses MAC.
+• HUB:Un hub est un composant matériel utilisé pour connecter plusieurs appareils sur un réseau local (lan).
+
+<i><b style="font-size:130%;">     2) Le Modèle OSI</i></b>
+• La couche physique : cette couche est responsable de la transmission des données sur
+le support physique (par exemple, câble, fibre optique, ondes radio).
+• La couche liaison de données : cette couche est responsable de la transmission des
+données entre les appareils qui partagent un même support physique.
+• La couche réseau : cette couche est responsable du routage des données à travers le
+réseau.
+• La couche transport : cette couche est responsable de l'acheminement des données de
+bout en bout entre les appareils.
+• La couche session : cette couche est responsable de l'établissement et de la gestion des
+sessions entre les appareils.
+• La couche présentation : cette couche est responsable de la conversion des données
+dans un format qui peut être compris par l'appareil de destination.
+• La couche application : cette couche est responsable de la communication entre les
+applications sur les appareils de réseau.
+REMARQUE :le modèle OSI reste utile pour comprendre les principes
+fondamentaux de la communication de réseau.
+le modèle TCP/IP (Transmission Control Protocol/Internet Protocol) est un modèle de référence pour les communications de réseau, utilisé pour la conception et la mise en œuvre des réseaux informatiques modernes.
+ Il divise les communications en quatre couches principales : la couche liaison de données, la couche réseau, la couche transport et la couche application. Il est utilisé pour la conception et la mise en œuvre des réseaux d'entreprise, des réseaux Internet et des réseaux sans fil. 
+Une adresse IP (Internet Protocol) est le numéro qui identifie chaque ordinateur dans les réseaux auxquels il appartient.
+ Il y a deux modes d'adressage : IPV4 et IPV6.
+[22:27]
+L'adresse IPV4 contient deux parties : une première partie des bits de valeur supérieure qui est l'adresse réseau et une deuxième partie des bits qui est l'adresse hôte.
+ On reconnaît qu'un réseau est un hôte quand la valeur des bits pour la partie réseau est la 
+même
+
+
+
+</pre>
+<hr>
+
+
+
+<h3> Partie4</h3>
+<h2> L’internet et le Web </h2>
+<pre>
+   <i><b style="font-size:130%;">1) Introduction</i></b>
+Le World Wide Web (WWW) est un système hypertexte public sur Internet permettant de consulter des pages accessibles sur des sites. Le Web est une partie des contenus circulant sur l’Internet et est relié par des mécanismes de lien hypertexte. Les URL (Uniform Resource Locator) permettent de localiser les pages web.
+
+   <i><b style="font-size:130%;">2) Aspects techniques du Web:</i></b>
+Les trois mécanismes de base du Web sont les URL, le protocole HTTP et le langage HTML. Le protocole HTTP est un paradigme client-serveur et ne contient pas de mémoire des transactions précédentes. Le langage HTML est un langage de description de pages web qui contient des textes, des images et des liens hypertextes entre les pages.
+
+   <i><b style="font-size:130%;">3) Page web et site web:</i></b>
+Une page web est un document multimédia décrit élément par élément avec un langage de description tel que HTML. Une page web est interprétée et affichée par un navigateur, stockée dans un fichier et localisée sur Internet à l’aide d’une adresse (URL). Un site web est un regroupement de pages web autour d’une thématique commune et relié par des liens hypertextes.
+
+   <i><b style="font-size:130%;">4) Création d’une page web HTML:</i></b>
+Le langage HTML est un langage de description de pages web, structuré par des balises et interprété dans un navigateur. Les principes de base du langage HTML incluent les balises, les titres et les paragraphes. Un fichier HTML doit contenir au moins les quatre balises suivantes: html ,  head ,  title  et body .
+
+
+</pre>
+<br>
+<hr>
+
+
+
+<h3> Partie5 </h3>
+<pre>
+    <i><b style="font-size:130%;">1) Introduction</i></b>
+
+Dans ce chapitre, nous allons définir ce que sont Git et GitHub afin d’éviter des
+confusions plus tard. Nous allons également comprendre pourquoi Git est si
+populaire et pourquoi les systèmes de gestion de version sont incontournables
+aujourd’hui
+Qu’est-ce que Git ?
+Git c’est un logiciel de versioning créé en 2005 par Linus Torvalds, le créateur de Linux. Git
+permet de conserver un historique des modifications effectuées sur un projet, ce qui facilite la
+gestion de projets et permet de travailler en équipe de manière plus efficace. Les logiciels de
+gestion de versions sont aujourd'hui incontournables et Git est considéré comme le leader
+incontesté. En conséquence, il est essentiel pour tout développeur de savoir utiliser Git.
+
+    <i><b style="font-size:130%;">2) A quoi sert concrètement un système de gestion de version ?</i></b>
+    
+lorsqu'on possède un site web et que l'on veut effectuer des modifications, il est recommandé
+de réaliser une sauvegarde du site avant l'implémentation, afin de pouvoir le restaurer en cas
+de problème. Cependant, cette méthode peut être contraignante et nécessite de réaliser une
+sauvegarde complète du site, ce qui peut être fastidieux.
+
+Il permet à chaque développeur de travailler sur une copie locale du projet, puis de le
+synchroniser avec un serveur central pour partager ses modifications avec les autres
+développeurs. Chaque développeur peut également récupérer les modifications des autres
+développeurs pour les intégrer à sa propre copie locale.
+De plus, Git permet de travailler sur différentes branches de développement simultanément,
+ce qui permet à chaque développeur de travailler sur une fonctionnalité ou une correction de
+bug spécifique sans affecter le travail des autres développeurs.
+Git permet également de gérer les conflits qui peuvent survenir lors de la fusion des
+modifications de plusieurs développeurs sur un même fichier, en offrant des outils pour
+résoudre ces conflits de manière efficace.
+En résumé, Git est un outil essentiel pour la gestion de projets de développement logiciel
+collaboratif, en offrant une gestion fine et efficace des versions, une gestion des branches, et
+une collaboration aisée entre les différents membres de l'équipe.
+
+    <i><b style="font-size:130%;">3) Les deux modèles des logiciels de gestion de version : modèle</i></b>
+    
+centralisé vs modèle décentralisé
+Les logiciels de gestion de version se basent sur deux modèles : centralisé et décentralisé. Le
+modèle centralisé consiste à centraliser le code source sur un serveur distant, tandis que le
+modèle décentralisé implique que chaque utilisateur télécharge et héberge l'intégralité du code
+source sur sa propre machine. Git est un exemple de modèle décentralisé qui permet de
+coordonner le travail entre plusieurs personnes en conservant un historique des changements
+effectués sur des fichiers.
+
+Le modèle distribué a été popularisé par Git et présente différents avantages notables
+par rapport au modèle centralisé :
+
+Le modèle distribué permet à chaque utilisateur d'héberger le code du projet, ce qui lui offre
+une grande flexibilité pour travailler en ligne sur sa propre machine sans avoir besoin d'être
+constamment connecté à un serveur central.
+Le modèle distribué de Git présente un avantage notable en matière de sécurité car chaque
+utilisateur possède une copie complète du projet, ce qui permet d'utiliser cette copie en tant
+que sauvegarde en cas de corruption du serveur central.
+
+    <i><b style="font-size:130%;">4) Qu’est-ce que GitHub ?</i></b>
+    
+Le texte décrit Git, un logiciel de gestion de version permettant d'enregistrer les modifications
+effectuées sur un projet et de retourner à une version antérieure. Le dépôt, qui est une copie de
+tous les fichiers et versions d'un projet sur le serveur central, est appelé "repository" ou "repo"
+en abrégé. GitHub est un service en ligne d'hébergement de dépôts Git, le plus grand au
+monde. Les dépôts sur GitHub sont majoritairement publics, ce qui signifie que tout le monde
+peut télécharger le code et contribuer à leur développement. Git est le logiciel de gestion de
+version tandis que GitHub est le service en ligne d'hébergement de dépôts Git qui sert de
+serveur central.
+
+    <i><b style="font-size:130%;">5) Utiliser Git : ligne de commande, console et interface graphique</i></b>
+    
+Git est un outil de gestion de version qui offre plusieurs façons de travailler avec lui. Que
+vous choisissiez la ligne de commande, la console ou une interface graphique, il est important
+de comprendre les avantages et les inconvénients de chaque méthode pour choisir celle qui
+convient le mieux à vos besoins.
+
+    <i><b style="font-size:130%;">6) Installation de Git</i></b>
+
+La façon la plus simple d’installer Git est de télécharger la dernière version sur le site
+officiel http://git-scm.com/downloads , d’ouvrir le fichier téléchargé et de suivre les
+instructions à l’écran en laissant toutes les valeurs par défaut.
+
+    <i><b style="font-size:130%;">7) Paramétrage de Git</i></b>
+    
+Git en renseignant un nom d'utilisateur et une adresse e-mail pour enregistrer certaines
+données. La commande Git utilisée pour cela est git config, qui permet de modifier les
+variables de configuration de Git. L'option --global est également utilisée pour indiquer que
+ces informations doivent être utilisées globalement pour tous les projets Git. Les commandes
+à taper sont git config --global user.name "Bouchekir Redouane" et git config --global
+user.email redouane.bouchekir@gmail.com, en remplaçant les informations par votre propre
+nom et adresse e-mail.
+Pour vous assurer que vos informations ont bien été enregistrées, vous pouvez
+taper git config user.name et git config user.email. Les informations entrées devraient
+être renvoyées.
+
+    <i><b style="font-size:130%;">8) Démarrer un dépôt Git</i></b>
+    
+Un “dépôt” correspond à la copie et à l’importation de l’ensemble des fichiers d’un
+projet dans Git. Il existe deux façons de créer un dépôt Git :
+• On peut importer un répertoire déjà existant dans Git ;
+• On peut cloner un dépôt Git déjà existant.
+Nous allons voir comment faire cela dans la suite de ce cours. Avant cela, je pense
+qu’il est bon de comprendre comment Git conçoit la gestion des informations ainsi
+que le fonctionnement général de Git.
+
+     <i><b style="font-size:130%;">9) La gestion des informations selon Git</i></b>
+     
+Git enregistre les données d'un projet sous forme d'instantanés ou "snapshots" de l'état du
+projet à un moment donné, et enregistre une référence à chaque instantané dans une base de
+données locale. Le fait de disposer de l'historique complet du projet localement permet à la
+plupart des opérations de Git d'être réalisées localement sans avoir besoin d'être connecté à un
+serveur distant, ce qui rend le travail plus rapide et plus agréable
+
+    <i><b style="font-size:130%;">10) Les états des fichiers</i></b>
+    
+Dans Git, les fichiers peuvent être suivis ou non suivis. Les fichiers suivis ont été enregistrés
+dans la base de données locale lors du dernier instantané capturé par Git. Les fichiers peuvent
+être modifiés, indexés ou validés. Lorsque l'on démarre un dépôt Git à partir d'un répertoire
+existant, tous les fichiers sont non suivis et doivent être indexés et validés. Les fichiers
+modifiés sont considérés comme modifiés tant qu'ils ne sont pas indexés. Les nouveaux
+fichiers sont non suivis. L'indexation d'un fichier signifie que le fichier doit être inclus dans le
+prochain instantané dans sa version actuelle. Enfin, lorsqu'on demande à Git de prendre un
+instantané, les fichiers faisant partie de l'instantané sont considérés comme validés et le cycle
+recommence.
+
+     <i><b style="font-size:130%;">11) Les zones de travail</i></b>
+     
+Le fonctionnement de Git pour suivre les modifications sur les fichiers d'un projet se base sur
+trois états de fichiers : modifié, indexé et validé. Ces états sont liés à des zones de travail dans
+Git : le répertoire de travail, la zone d'index et le répertoire Git. Le répertoire de travail
+correspond à une extraction unique d'une version du projet. La zone d'index stocke les
+informations concernant ce qui fera partie du prochain instantané ou du prochain "commit",
+tandis que le répertoire Git est l'endroit où Git stocke les méta-données et la base de données
+des objets de votre projet. Le processus de travail consiste à travailler sur les fichiers dans le
+répertoire de travail, puis indexer les fichiers modifiés ou créés pour qu'ils soient considérés
+comme indexés. Enfin, la version indexée des fichiers est validée en les ajoutant au répertoire
+Git.
+
+    <i><b style="font-size:130%;">12/ Créer un dépôt Git à partir d’un répertoire existant</i></b>
+    
+Pour créer un dépôt Git à partir d'un répertoire existant, vous pouvez suivre les étapes
+suivantes :
+1. Ouvrir le terminal ou l'invite de commandes dans le répertoire que vous souhaitez
+transformer en dépôt Git.
+2. Exécuter la commande git init. Cette commande va créer un nouveau dépôt Git vide
+dans le répertoire courant.
+
+3. Vous pouvez ensuite ajouter les fichiers existants dans ce nouveau dépôt en exécutant
+la commande git add . (notez le point à la fin de la commande). Cela va ajouter tous
+les fichiers du répertoire courant à l'index Git, qui sert de zone tampon pour les
+commits.
+4. Une fois que les fichiers ont été ajoutés, vous pouvez effectuer un commit en
+exécutant la commande git commit -m "Premier commit". Cela va créer un nouveau
+commit avec les fichiers ajoutés à l'index Git et avec le message "Premier commit".
+5. Vous pouvez maintenant travailler sur vos fichiers et effectuer de nouveaux commits
+en utilisant les commandes Git appropriées (par exemple git add pour ajouter de
+nouveaux fichiers à l'index, puis git commit pour créer un nouveau commit).
+6. Vous pouvez également ajouter un dépôt distant en exécutant la commande git remote
+add origin <url-du-depot-remote>, où <url-du-depot-remote> est l'URL du dépôt
+distant que vous souhaitez ajouter. Cela vous permettra de pousser vos commits vers
+le dépôt distant et de les récupérer si nécessaire.
+
+    <i><b style="font-size:130%;">13) Cloner un dépôt Git</i></b>
+    
+Il semble que vous ayez déjà créé un dépôt sur GitHub et ajouté deux fichiers à ce dépôt en
+utilisant les commandes Git suivantes:
+1. git branch -M main: Cette commande permet de renommer la branche par défaut en
+"main".
+2. git remote add origin
+https://github.com/BouchekirRedouane/ExmpleCloneGit.git: Cette commande
+ajoute un nouveau remote appelé "origin" à votre dépôt local et le lie à votre dépôt
+distant sur GitHub en utilisant l'URL fournie.
+3. git push -u origin main: Cette commande pousse les modifications de votre branche
+locale "main" vers votre dépôt distant "origin" sur GitHub. L'option "-u" configure
+votre branche locale pour suivre la branche distante "main".
+Après avoir exécuté ces commandes, vous avez vérifié sur votre dépôt GitHub et constaté que
+les deux fichiers ont été ajoutés avec succès.
+
+     <i><b style="font-size:130%;">14) Ajouter ou modifier des fichiers dans un projet et actualiser notre dépôt Git</i></b>
+A ce niveau, pour gérer les différentes versions d'un projet, en ajoutant, modifiant ou
+supprimant des fichiers. Pour enregistrer les changements dans le dépôt Git, il est nécessaire
+
+d'utiliser les commandes "git add" et "git commit". Il est important de noter que le commit
+d'un fichier sera basé sur l'état de ce fichier au moment du "git add". Si vous souhaitez
+enregistrer la dernière version d'un fichier, il est donc important d'effectuer un "git add" juste
+avant un "git commit". Vous pouvez également utiliser "git commit -a" pour ajouter et valider
+les fichiers modifiés en une seule commande.
+     <i><b style="font-size:130%;">15) Consulter l’historique des modifications Git</i></b>
+La commande git log permet de consulter l'historique des modifications Git, affichant la liste
+des commits réalisés du plus récent au plus ancien. Les informations de chaque commit
+incluent sa somme de contrôle SHA-1, le nom et l'e-mail de l'auteur, la date et le message du
+commit.
+
+    <i><b style="font-size:130%;">16) Annuler des modifications apportées à un fichier</i></b>
+Le texte explique que l'un des avantages de l'utilisation d'un logiciel de gestion de version est
+la possibilité de revenir à un état antérieur d'un projet. Après un commit, on peut continuer à
+travailler sur les fichiers et parfois vouloir revenir à l'état précédent du fichier. On peut utiliser
+la commande git checkout -- nom-du-fichier ou la nouvelle commande spécialisée git restore
+pour effectuer cette opération.
+
+    <i><b style="font-size:130%;">17) Qu’est ce qu’une branche ?</i></b>
+Git permet de créer des branches facilement en créant simplement un nouveau pointeur vers
+un commit existant. Une branche est donc un pointeur vers un commit spécifique, et non une
+copie complète du répertoire de travail. La branche par défaut de Git s'appelle "master" et se
+déplace automatiquement à chaque nouveau commit. Les autres branches peuvent être créées
+pour développer et tester de nouvelles fonctionnalités sans impacter le projet de base.
+L'utilisation de branches facilite la gestion des versions et permet de travailler sur différentes
+fonctionnalités simultanément.
+</pre>
+<hr>
+<h2> List des etudiants </h2>
+<ol><pre>
+MI L1 SECTION 1 GROUPE 1
+
+
+   MATRICULE      NOM           PRENOM          PARTIE
+   
+<li> 212131012931    Houacine       Aicha             1
+<li> 212131050042    Djouada        Asma Mounia       1
+<li> 212131087178    Cherif         Manel             2  
+<li> 212131072356    Boumezebeur    Farah             2
+<li> 212135008340    Halitim        Inas              3  
+<li> 212133024525    Midoun         Amna Manar        3 
+<li> 212137043256    Belhadji       Mohamed Amine     4   
+<li> 182131068355    Chadouli       Mohamed Tahar     4 
+<li> 212133046086    Zehar          Abdelkrim         5  
+<li> 212131079360    Bendifallah    Elias Souhil      5
+<li> 212131048106    Segmane        Ikram             5
+
+
+<pre/>
+<pre>codage HTML:Djouada Asma Mounia<pre/>
+</body>
+</html>
